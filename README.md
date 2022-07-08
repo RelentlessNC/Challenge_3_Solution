@@ -1,5 +1,7 @@
 <p>For this password generator I used my knowledge of logic to simplify the JS code as much as possible and use that for error checking.  I also made sure that if the user presses the cancel button at any time, the generation process would cancel, a message would print in the card notifying the user they cancled the password generation and then it exits the function.</p>
 
+[link to deployed application](https://relentlessnc.github.io/challenge_3_solution/)
+
 # JavaScript Challenge: Password Generator
 This week's Challenge requires you to create an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. This week's coursework will teach you all the skills you need to succeed in this assignment.
 

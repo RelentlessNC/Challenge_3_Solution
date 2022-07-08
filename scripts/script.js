@@ -88,7 +88,7 @@ function generatePassword() {
                 passArray = passArray.concat(specialCharacters);
             }
         }
-        while (passLength < 8 || passLength > 128 && passLength == NaN) {
+        while (passLength < 8 || passLength > 128 || isNaN(passLength)) {
             passLength = prompt('How long would you like your password to be? (8-128)');
             // If the user presses cancel, print a cancel message and return to writePassword()
             if (passLength == null) {

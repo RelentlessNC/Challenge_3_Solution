@@ -4,6 +4,8 @@ This week's Challenge requires you to create an application that an employee can
 
 The password can include special characters. If you're unfamiliar with these, see this list of Password Special Characters from the OWASP Foundation (Links to an external site.).
 
+## [LIVE URL](https://relentlessnc.github.io/Custom_Password_Generator/)
+
 ## User Story
 
 ```md
@@ -31,9 +33,3 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![A screenshot displays a sample password generator.](./images/03-javascript-homework-demo.png).
